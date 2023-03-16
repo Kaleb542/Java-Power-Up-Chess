@@ -1,1 +1,1 @@
-# Java Power-up-Chess
+# Java Power-Up Chess
